@@ -3,3 +3,10 @@
 @import url('/lib/css/page/layout.css');
 @import url('/lib/css/page/panel.css');
 @import url('/lib/css/page/quotes.css');
+input::file-selector-button{
+	background:#EFEFEF;
+	color:black;
+	padding: 4px 16px;
+	margin-right:8px;
+}
+/* @import "tailwindcss"; */
