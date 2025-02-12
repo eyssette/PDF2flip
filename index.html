@@ -5,6 +5,8 @@
   <meta charset="utf-8">
   <title>PDF2flip</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description"
+        content="PDF2flip permet de transformer un PDF en un flipbook (livre numérique à feuilleter)"/>
   <link rel="icon" type="image/svg+xml" href="/assets/paginis.svg" alt="icon svg">
 
   <link href="lib/css/min.css" rel="stylesheet" type="text/css">
@@ -51,7 +53,7 @@
   <div id="inputPanel">
     <!-- Dropdown to select between URL or local PDF -->
     <div class="flex justify-center mb-4">
-      <select id="pdfSource" class="px-4 py-2 border border-gray-400 rounded-lg bg-white text-black w-full">
+      <select id="pdfSource" class="px-4 py-2 border border-gray-400 rounded-lg bg-white text-black w-full" aria-label="Source du PDF">
         <option value="local">PDF en local</option>
         <option value="url" selected>PDF en ligne</option>
       </select>
@@ -59,8 +61,8 @@
 
     <!-- Input field for the PDF URL -->
     <div id="urlInputField" class="flex justify-center mb-4">
-      <input id="pdfUrl" type="text" placeholder="Entrer l'URL de votre PDF" 
-             class="px-4 py-2 border border-gray-400 rounded-lg w-full bg-gray-800 text-gray-300 placeholder-gray-500">
+      <input id="pdfUrl" type="text" name="pdfUrl" placeholder="Entrer l'URL de votre PDF" 
+             class="px-4 py-2 border border-gray-400 rounded-lg w-full bg-gray-800 text-gray-300 placeholder-gray-500"></input>
     </div>
 
     <!-- Input field for the local PDF file -->
@@ -92,7 +94,6 @@
   <script src="lib/js/handleURL.js"></script>
   <script src="lib/js/load.js"></script>
   <script src="lib/js/ui.js"></script>
-  <script src="lib/js/media.js"></script>
   <script type="module" src="lib/js/quotes/main.js"></script>
 </body>
 </html>
