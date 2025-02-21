@@ -1,4 +1,8 @@
-## Unreleased
+## 2.0.1 (2025-02-21)
+
+### Fix
+
+- CSS background-color pour canvas
 
 ## 2.0.0 (2025-02-21)
 
