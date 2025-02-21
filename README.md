@@ -10,8 +10,12 @@ Si on veut afficher seulement le fichier PDF sans les menus, on ajoute `?m=0`ava
 
 `https://pdf2flip.forge.apps.education.fr/?m=0#URL_FICHIER_PDF`
 
+## Contribuer
+
+Si vous souhaitez contribuer ou tout simplement discuter de ce projet pour participer à l'améliorer, merci de lire le fichier [CONTRIBUTING.md](https://forge.apps.education.fr/pdf2flip/pdf2flip.forge.apps.education.fr/-/blob/main/CONTRIBUTING.md?ref_type=heads).
+
 ## Licence
 
-Cet outil est distribué sous licence libre GPL.
+PDF2flip est distribué sous licence libre GPL.
 
 Il est fondé sur le logiciel libre [Paginis](https://github.com/ibra-kdbra/Paginis).
