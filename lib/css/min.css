@@ -1679,3 +1679,9 @@ body.df-lightbox-open {
 .df-custom-fullscreen.df-fullscreen[backgroundcolor='transparent'] {
     background: gray !important
 }
+
+
+
+.df-icon-close:before {
+    content: "X";
+}
