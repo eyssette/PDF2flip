@@ -1,3 +1,15 @@
+## 2.0.3 (2025-02-22)
+
+### Fix
+
+- francisation de termes "Close" et "Loading"
+
+## 2.0.2 (2025-02-22)
+
+### Fix
+
+- icon-close pour l'annulation du chargement du PDF
+
 ## 2.0.1 (2025-02-21)
 
 ### Fix
