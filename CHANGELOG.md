@@ -1,3 +1,9 @@
+## 2.2.0 (2025-02-23)
+
+### Feat
+
+- zoom (si ctrl+clic ou ctrl+mousewheel) et scroll (si mousewheel)
+
 ## 2.1.0 (2025-02-23)
 
 ### Feat
