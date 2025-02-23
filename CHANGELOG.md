@@ -1,3 +1,9 @@
+## 2.1.0 (2025-02-23)
+
+### Feat
+
+- clic "PDF en local" ouvre directement boîte choix d'un fichier
+
 ## 2.0.3 (2025-02-22)
 
 ### Fix
