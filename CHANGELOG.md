@@ -1,3 +1,9 @@
+## 2.7.0 (2025-02-24)
+
+### Feat
+
+- bouton de partage d'un flipbook en ligne
+
 ## 2.6.0 (2025-02-24)
 
 ### Feat
