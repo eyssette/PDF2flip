@@ -1,0 +1,24 @@
+{
+  "name": "pdf2flip",
+  "version": "2.5.0",
+  "description": "PDF2flip permet de transformer un PDF en un flipbook (livre numérique à feuilleter)",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "npx @tailwindcss/cli -i ./lib/css/style.css -o ./lib/css/tailwind-build.css --minify"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://forge.apps.education.fr/pdf2flip/pdf2flip.forge.apps.education.fr"
+  },
+  "keywords": [
+    "pdf","flipbook"
+  ],
+  "author": "Cédric Eyssette",
+  "license": "GPL",
+  "dependencies": {
+    "@tailwindcss/cli": "^4.0.8",
+    "tailwind": "^4.0.0",
+    "tailwindcss": "^4.0.8"
+  }
+}
