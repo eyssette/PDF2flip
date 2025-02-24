@@ -1,3 +1,9 @@
+## 2.4.0 (2025-02-24)
+
+### Feat
+
+- fichier readme en PDF sur la page d'accueil
+
 ## 2.3.0 (2025-02-24)
 
 ### Feat
