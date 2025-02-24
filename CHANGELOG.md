@@ -1,3 +1,9 @@
+## 3.1.3 (2025-02-25)
+
+### Fix
+
+- togglePanelBtn après clic sur zenBtnShow
+
 ## 3.1.2 (2025-02-25)
 
 ### Fix
