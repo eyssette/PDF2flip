@@ -1,3 +1,9 @@
+## 2.6.0 (2025-02-24)
+
+### Feat
+
+- ajout d'un bouton d'informations (lien vers la Forge)
+
 ## 2.5.0 (2025-02-24)
 
 ### Feat
