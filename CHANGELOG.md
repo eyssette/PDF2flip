@@ -1,3 +1,15 @@
+## 2.3.0 (2025-02-24)
+
+### Feat
+
+- zoom possible sur mobile
+
+## 2.2.1 (2025-02-24)
+
+### Fix
+
+- francisation d'un message d'erreur
+
 ## 2.2.0 (2025-02-23)
 
 ### Feat
