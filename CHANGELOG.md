@@ -1,3 +1,9 @@
+## 2.5.0 (2025-02-24)
+
+### Feat
+
+- ajout de l'URL dans le hash quand on charge un pdf en ligne
+
 ## 2.4.0 (2025-02-24)
 
 ### Feat
