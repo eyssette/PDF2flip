@@ -1,3 +1,9 @@
+## 3.1.1 (2025-02-24)
+
+### Fix
+
+- shareBtn qui s'affichait quand plusieurs clics sur zenBtn
+
 ## 3.1.0 (2025-02-24)
 
 ### Feat
