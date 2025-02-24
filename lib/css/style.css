@@ -1,15 +1,15 @@
 /* @import "tailwindcss"; */
-@import url('/lib/css/page/button.css');
-@import url('/lib/css/page/input-panel-buttons.css');
-@import url('/lib/css/page/layout.css');
-@import url('/lib/css/page/panel.css');
-@import url('/lib/css/page/quotes.css');
-input::file-selector-button{
-	background:#EFEFEF;
-	color:black;
-	padding: 4px 16px;
-	margin-right:8px;
+@import url("/lib/css/page/button.css");
+@import url("/lib/css/page/input-panel-buttons.css");
+@import url("/lib/css/page/layout.css");
+@import url("/lib/css/page/panel.css");
+@import url("/lib/css/page/quotes.css");
+input::file-selector-button {
+  background: #efefef;
+  color: black;
+  padding: 4px 16px;
+  margin-right: 8px;
 }
-canvas{
-	background-color: var(--color-gray-900);
+canvas {
+  background-color: var(--color-gray-900);
 }

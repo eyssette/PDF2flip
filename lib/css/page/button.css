@@ -2,17 +2,17 @@
   display: flex;
   align-items: center;
   padding: 0.5rem 1rem;
-  background-color: #4B3C3C;
-  color: #EAEAEA;
-  border: 1px solid #8B6F6F;
+  background-color: #4b3c3c;
+  color: #eaeaea;
+  border: 1px solid #8b6f6f;
   border-radius: 8px;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
   transition: background-color 0.3s, color 0.3s;
 }
 
 .fixed.top-4.right-4.z-50 a:hover {
-  background-color: #3E3232;
-  color: #FFFFFF;
+  background-color: #3e3232;
+  color: #ffffff;
 }
 
 /* Bottom-left buttons (e.g., Hide Options) */
@@ -23,17 +23,17 @@
 
 .fixed.bottom-4.left-4 button {
   padding: 0.5rem 1rem;
-  background-color: #4B3C3C;
-  color: #EAEAEA;
-  border: 1px solid #8B6F6F;
+  background-color: #4b3c3c;
+  color: #eaeaea;
+  border: 1px solid #8b6f6f;
   border-radius: 8px;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
   transition: background-color 0.3s, color 0.3s;
 }
 
 .fixed.bottom-4.left-4 button:hover {
-  background-color: #3E3232;
-  color: #FFFFFF;
+  background-color: #3e3232;
+  color: #ffffff;
 }
 
 /* Quote input field and button */
