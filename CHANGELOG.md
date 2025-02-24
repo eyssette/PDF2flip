@@ -1,3 +1,16 @@
+## 3.0.0 (2025-02-24)
+
+### BREAKING CHANGE
+
+- le scroll dans le PDF (zoom /
+déplacements horizontaux et verticaux) avec la
+souris ou du multitouch sur le trackpad
+n'est plus possible (la solution était trop lente)
+
+### Feat
+
+- suppression des événements wheel
+
 ## 2.7.0 (2025-02-24)
 
 ### Feat
