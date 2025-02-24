@@ -1,3 +1,9 @@
+## 3.1.0 (2025-02-24)
+
+### Feat
+
+- bouton pour afficher/masquer l'interface
+
 ## 3.0.0 (2025-02-24)
 
 ### BREAKING CHANGE
