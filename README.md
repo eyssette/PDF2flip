@@ -6,6 +6,8 @@ PDF2flip est une application libre et gratuite qui permet de transformer un PDF 
 
 On peut zoomer sur le PDF en faisant Alt+Clic sur l'endroit qu'on veut agrandir, et Shift+Alt+Clic si on veut dézoomer (sur écran tactile, les gestes de zoom sont pris en charge).
 
+Si Alt+Clic ne fonctionne pas sur votre ordinateur, vous pouvez utiliser Ctrl+Clic.
+
 ## 👩‍🔧 Comment ça marche ?
 
 On peut lire un PDF qu'on a en local ou bien qui se trouve sur internet.
