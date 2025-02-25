@@ -1,3 +1,9 @@
+## 3.4.0 (2025-02-25)
+
+### Feat
+
+- simplification accès PDF sur Nuage
+
 ## 3.3.0 (2025-02-25)
 
 ### Feat
