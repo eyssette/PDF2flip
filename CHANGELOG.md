@@ -1,3 +1,9 @@
+## 3.3.0 (2025-02-25)
+
+### Feat
+
+- paramètres URL (openPage+singlePageMode)
+
 ## 3.2.0 (2025-02-25)
 
 ### Feat
