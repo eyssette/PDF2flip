@@ -1,3 +1,15 @@
+## 4.1.2 (2025-03-11)
+
+### Fix
+
+- 2e appel à loadFlipbook inutile
+
+## 4.1.1 (2025-03-11)
+
+### Fix
+
+- conflit avec fonction interne detectHash : supprimée
+
 ## 4.1.0 (2025-03-11)
 
 ### Feat
