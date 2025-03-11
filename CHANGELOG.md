@@ -1,3 +1,9 @@
+## 4.0.0 (2025-03-11)
+
+### Feat
+
+- boutons zoom, plein écran, impression / suppression customisation librairie
+
 ## 3.4.0 (2025-02-25)
 
 ### Feat
