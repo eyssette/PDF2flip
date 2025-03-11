@@ -33,6 +33,7 @@ Si on veut afficher seulement le fichier PDF sans les menus, on ajoute ?m=0avant
 On peut ajouter des paramètres dans l'URL pour :
 - afficher une page spécifique : `?p=3`
 - ne voir qu'une seule page à la fois : `?v=1`
+- ne voir le livre que jusqu'à une page : `?e=3` (`e` pour `endPage`)
 
 Si vous combinez des paramètres, il faut avoir un seul `?` au début, les ajouter avant le `#`, et les lier avec `&`.
 
