@@ -13,3 +13,25 @@ input::file-selector-button {
 canvas {
   background-color: var(--color-gray-900);
 }
+
+
+.df-ui-thumbnail, .df-ui-share, .df-ui-search, .df-ui-more{
+  display:none; 
+}
+
+.df-ui{
+  opacity:0.8;
+}
+
+.df-ui, .df-ui-btn{
+  background:var(--color-gray-900);
+  color:white;
+}
+.df-ui-btn.df-active, .df-ui-btn:hover {
+  color: #00acce;
+  background:var(--color-gray-900);
+}
+
+.df-ui-nav.df-ui-prev .df-ui-btn:before, .df-ui-nav.df-ui-next .df-ui-btn:before {
+  opacity:0.5;
+}
