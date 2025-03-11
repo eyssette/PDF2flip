@@ -1,3 +1,9 @@
+## 4.1.0 (2025-03-11)
+
+### Feat
+
+- paramètre e dans URL pour endPage
+
 ## 4.0.0 (2025-03-11)
 
 ### Feat
