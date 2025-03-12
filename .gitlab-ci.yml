@@ -1,5 +1,5 @@
 variables:
-  FILES_TO_COMPRESS: "htm html txt text js css md ico svg"
+  FILES_TO_COMPRESS: "htm html txt text js css md ico svg pdf"
 
 pages:
   image: alpine:latest
