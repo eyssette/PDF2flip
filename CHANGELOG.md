@@ -1,3 +1,9 @@
+## 4.2.0 (2025-03-12)
+
+### Feat
+
+- si endpage param, pas de bouton "print"
+
 ## 4.1.2 (2025-03-11)
 
 ### Fix
