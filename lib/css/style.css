@@ -1,9 +1,9 @@
 /* @import "tailwindcss"; */
-@import url("/lib/css/page/button.css");
-@import url("/lib/css/page/input-panel-buttons.css");
-@import url("/lib/css/page/layout.css");
-@import url("/lib/css/page/panel.css");
-@import url("/lib/css/page/quotes.css");
+@import url("./page/button.css");
+@import url("./page/input-panel-buttons.css");
+@import url("./page/layout.css");
+@import url("./page/panel.css");
+@import url("./page/quotes.css");
 input::file-selector-button {
   background: #efefef;
   color: black;
