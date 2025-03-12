@@ -1,3 +1,9 @@
+## 4.3.1 (2025-03-12)
+
+### Fix
+
+- texte pour déplier/replier le menu de sélection d'un PDF
+
 ## 4.3.0 (2025-03-12)
 
 ### Feat
