@@ -22,6 +22,11 @@ L'outil permet également de créer des notes et de les exporter quand on a fini
 
 On ne peut pas partager directement un PDF qui est sur ordinateur : il faut le mettre dans un espace en ligne avec un lien public, par exemple avec Nuage via le portail [Apps Éducation](https://portail.apps.education.fr/).
 
+:::info
+:warning: Il faut que le lien public soit le lien direct vers le fichier et non vers une page qui affiche le fichier.
+:::
+
+
 Pour partager son PDF, on met le lien public dans l'application, on charge le pdf et on peut ensuite tout simplement cliquer sur l'icône “partager” (cette icône n'apparaît que si vous avez chargé un PDF en ligne). 
 
 ![](https://minio.apps.education.fr/codimd-prod/uploads/upload_fc5b1fcb642c40eda601346d381d51d5.png)
@@ -66,15 +71,14 @@ Vous pouvez [faire une suggestion](https://forge.apps.education.fr/pdf2flip/pdf2
 
 Si vous souhaitez participer au code de PDF2flip, n'hésitez pas à consulter les tickets et à [contacter le responsable du projet](http://eyssette.forge.apps.education.fr/).
 
-## 👩‍⚖️  Licence
+## 👩‍⚖️ Licence
 
 [PDF2flip](https://pdf2flip.forge.apps.education.fr/) est distribué sous licence libre GPL, ce qui signifie que :
 
 - Vous pouvez l’utiliser librement, sans restriction.
-- Vous pouvez l’étudier et le modifier en accédant à son code source.
+- Vous pouvez étudier et modifier le code source.
 - Vous pouvez le redistribuer, avec ou sans modifications.
 - Si vous diffusez une version modifiée, vous devez la partager sous la même licence, afin que les utilisateurs suivants aient les mêmes droits que vous.
 
-Cela garantit que le logiciel reste libre et accessible à tous.
 
 Il est fondé sur le logiciel [Paginis](https://github.com/ibra-kdbra/Paginis), mais il utilise la [version lite de la librairie dflip](https://github.com/dearhive/3d-flipbook-dflip-lite/), sous licence libre.
