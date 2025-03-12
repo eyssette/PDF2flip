@@ -67,7 +67,7 @@ Si vous souhaitez contribuer ou tout simplement discuter de ce projet pour parti
 
 ### Proposer des 🚀  améliorations ou signaler un 🐛 bug
 
-Vous pouvez [faire une suggestion](https://forge.apps.education.fr/pdf2flip/pdf2flip.forge.apps.education.fr/-/issues/new?issuable_template=suggestion) de nouvelles fonctionnalités, [signaler un bug](https://forge.apps.education.fr/pdf2flip/pdf2flip.forge.apps.education.fr/-/issues/new?issuable_template=bug) ou, de manière générale, discuter de l'évolution de PDF2flip via les [tickets](https://forge.apps.education.fr/pdf2flip/pdf2flip.forge.apps.education.fr/-/issues/new) ou bien par [mail](https://forge.apps.education.fr/pdf2flip/pdf2flip.forge.apps.education.fr/-/blob/main/forge-apps+guichet+pdf2flip-pdf2flip-forge-apps-education-fr-3596-issue-@phm.education.gouv.fr).
+Vous pouvez [faire une suggestion](https://forge.apps.education.fr/pdf2flip/pdf2flip.forge.apps.education.fr/-/issues/new?issuable_template=suggestion) de nouvelles fonctionnalités, [signaler un bug](https://forge.apps.education.fr/pdf2flip/pdf2flip.forge.apps.education.fr/-/issues/new?issuable_template=bug) ou, de manière générale, discuter de l'évolution de PDF2flip via les [tickets](https://forge.apps.education.fr/pdf2flip/pdf2flip.forge.apps.education.fr/-/issues) ou bien par [mail](mailto:https://forge.apps.education.fr/pdf2flip/pdf2flip.forge.apps.education.fr/-/blob/main/forge-apps+guichet+pdf2flip-pdf2flip-forge-apps-education-fr-3596-issue-@phm.education.gouv.fr).
 
 Si vous souhaitez participer au code de PDF2flip, n'hésitez pas à consulter les tickets et à [contacter le responsable du projet](http://eyssette.forge.apps.education.fr/).
 
