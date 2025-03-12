@@ -1,3 +1,9 @@
+## 4.3.0 (2025-03-12)
+
+### Feat
+
+- hideOptions au moment de loadFlipbook (sauf pour readme.pdf au début)
+
 ## 4.2.0 (2025-03-12)
 
 ### Feat
