@@ -1,3 +1,9 @@
+## 4.4.5 (2025-03-13)
+
+### Fix
+
+- supression closeQuotePanelOnClickOutside
+
 ## 4.4.4 (2025-03-12)
 
 ### Fix
