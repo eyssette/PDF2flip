@@ -1,3 +1,9 @@
+## 4.4.0 (2025-03-12)
+
+### Feat
+
+- boutons "share" et "info" dans la barre de menu en bas
+
 ## 4.3.2 (2025-03-12)
 
 ### Fix
