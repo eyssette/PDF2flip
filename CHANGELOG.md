@@ -1,3 +1,9 @@
+## 4.4.2 (2025-03-12)
+
+### Fix
+
+- si on a "e" (endPage) et "p"  comme paramètre : retour à la page initiale définie par "p" plutôt qu'à la page 1
+
 ## 4.4.1 (2025-03-12)
 
 ### Fix
