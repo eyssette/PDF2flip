@@ -1,3 +1,9 @@
+## 4.4.1 (2025-03-12)
+
+### Fix
+
+- liens relatifs pour CSS dans ./lib/css/page/
+
 ## 4.4.0 (2025-03-12)
 
 ### Feat
