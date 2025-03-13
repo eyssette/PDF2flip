@@ -1,3 +1,13 @@
+## 4.5.0 (2025-03-13)
+
+### Feat
+
+- on n'utilise le proxy CORS que si besoin
+
+### Perf
+
+- réduction taille PDF initial
+
 ## 4.4.5 (2025-03-13)
 
 ### Fix
