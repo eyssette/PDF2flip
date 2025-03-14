@@ -89,3 +89,7 @@ Si vous souhaitez participer au code de PDF2flip, n'hésitez pas à consulter le
 
 
 Il est fondé sur le logiciel [Paginis](https://github.com/ibra-kdbra/Paginis), mais il utilise la version _lite_ de la librairie [dflip](https://github.com/dearhive/3d-flipbook-dflip-lite/), sous licence libre.
+
+## Remerciements !
+
+Merci à [Quentin PAGÈS](https://github.com/Mejans/) pour la traduction en occitan !
