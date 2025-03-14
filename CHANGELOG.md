@@ -1,3 +1,13 @@
+## 4.8.0 (2025-03-14)
+
+### Feat
+
+- i18n - ajout de l'occitan
+
+### Fix
+
+- prise en compte pour l'internationalisation des placeholders
+
 ## 4.7.1 (2025-03-14)
 
 ### Fix
