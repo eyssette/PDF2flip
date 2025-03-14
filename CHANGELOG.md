@@ -1,3 +1,9 @@
+## 4.7.1 (2025-03-14)
+
+### Fix
+
+- lang doit être défini d'abord par le navigator
+
 ## 4.7.0 (2025-03-14)
 
 ### Feat
