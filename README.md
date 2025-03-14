@@ -9,7 +9,7 @@
 
 On peut lire un PDF qu'on a en local ou bien qui se trouve sur internet.
 
-![](https://minio.apps.education.fr/codimd-prod/uploads/upload_1227de932ffea9096cf659956825244e.png)
+![](https://minio.apps.education.fr/codimd-prod/uploads/upload_7c209a2a39d4a946ed8ea50da3803299.png)
 
 L'outil permet également de créer des notes et de les exporter quand on a fini de lire le livre.
 
@@ -46,7 +46,7 @@ Si on veut afficher seulement le fichier PDF sans les menus, on ajoute `?m=0` av
 https://pdf2flip.forge.apps.education.fr/?m=0#URL_FICHIER_PDF
 ```
 
-## ⚙️ Options
+## ☰ Options
 
 On peut ajouter des paramètres dans l'URL pour :
 - afficher une page spécifique : `?p=3`
@@ -60,6 +60,13 @@ Par exemple, on pourrait avoir :
 ```
 https://pdf2flip.forge.apps.education.fr/?m=0&p=3&v=1#URL_FICHIER_PDF
 ```
+
+## ⚙️ Configuration CORS côté serveur
+
+PDF2flip utilise automatiquement un proxy CORS si le PDF est inaccessible directement. Aucune configuration n'est nécessaire.
+
+Mais si vous avez accès au serveur sur lequel se trouve le PDF, il est recommandé d'autoriser l'accès direct en configurant les en-têtes CORS sur votre serveur.
+
 
 ## 🙋‍ Contribuer
 
