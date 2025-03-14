@@ -29,20 +29,20 @@
   <!-- Button to toggle the quote note panel visibility -->
   <div class="fixed top-4 left-4 z-100 flex space-x-2 hideIfInIframe">
     <button id="toggleQuotePanelBtn" class="px-4 py-2 bg-[#4B3C3C] text-[#EAEAEA] border border-[#8B6F6F] 
-    rounded-lg shadow-md transition duration-300 hover:bg-[#3E3232] hover:text-white">Mes notes</button>
+    rounded-lg shadow-md transition duration-300 hover:bg-[#3E3232] hover:text-white" data-i18n="myNotes">Mes notes</button>
     <button id="exportQuotesBtn" class="px-4 py-2 bg-[#4B3C3C] text-[#EAEAEA] border border-[#8B6F6F] 
-    rounded-lg shadow-md transition duration-300 hover:bg-[#3E3232] hover:text-white">Exporter</button>
+    rounded-lg shadow-md transition duration-300 hover:bg-[#3E3232] hover:text-white" data-i18n="exportNotes">Exporter</button>
   </div>
 
   <!-- Quote Notes Panel -->
   <div id="quoteNotesPanel" class="fixed top-0 left-0 p-4 bg-gray-800 text-white rounded-bl-lg shadow-lg z-90 hidden">
-    <h3 class="text-lg mb-2">Mes notes</h3>
+    <h3 class="text-lg mb-2" data-i18n="myNotes">Mes notes</h3>
 
     <div class="mb-4 flex items-center mt-4">
       <input id="quoteInput" type="text" placeholder="Entrer votre note" 
              class="px-2 py-1 border border-gray-400 rounded-lg w-full">
       <button id="addQuoteBtn" class="px-2 py-1 bg-[#4B3C3C] text-[#EAEAEA] border border-[#8B6F6F] 
-      rounded-lg ml-2 transition duration-300 hover:bg-[#3E3232] hover:text-white">Ajouter</button>
+      rounded-lg ml-2 transition duration-300 hover:bg-[#3E3232] hover:text-white" data-i18n="addNote">Ajouter</button>
     </div>
 
     <ul id="quoteList" class="list-disc pl-5">
@@ -53,7 +53,7 @@
   <!-- Button to toggle the input panel visibility -->
   <div class="fixed bottom-4 left-4 z-50 hideIfInIframe">
     <button id="togglePanelBtn" class="bg-[#4B3C3C] text-[#EAEAEA] border border-[#8B6F6F] 
-    rounded-lg px-4 py-2 shadow-md transition duration-300 hover:bg-[#3E3232] hover:text-white">Replier ce menu</button>
+    rounded-lg px-4 py-2 shadow-md transition duration-300 hover:bg-[#3E3232] hover:text-white" data-i18n="foldSelectPDFmenu">Replier ce menu</button>
   </div>
 
   <!-- Input panel to choose PDF source and load the PDF -->
@@ -61,8 +61,8 @@
     <!-- Dropdown to select between URL or local PDF -->
     <div class="flex justify-center mb-4">
       <select id="pdfSource" class="px-4 py-2 border border-gray-400 rounded-lg bg-white text-black w-full" aria-label="Source du PDF">
-        <option value="local">PDF en local</option>
-        <option value="url" selected>PDF en ligne</option>
+        <option value="local" data-i18n="localPDF">PDF en local</option>
+        <option value="url" selected data-i18n="onlinePDF">PDF en ligne</option>
       </select>
     </div>
 
@@ -82,7 +82,7 @@
     <!-- Button to load the PDF or YouTube playlist -->
     <div class="flex justify-end">
       <button id="loadPdfBtn" class="px-4 py-2 bg-[#4B3C3C] text-[#EAEAEA] border border-[#8B6F6F] 
-      rounded-lg shadow-md transition duration-300 hover:bg-[#3E3232] hover:text-white">Charger le PDF</button>
+      rounded-lg shadow-md transition duration-300 hover:bg-[#3E3232] hover:text-white" data-i18n="loadPDF">Charger le PDF</button>
     </div>
   </div>
 
@@ -90,9 +90,11 @@
   <div id="flipbookContainer" class="h-screen w-full"></div>
 
   <script src="lib/js/libs/jquery.min.js" type="text/javascript"></script>
+  <script src="lib/js/uiTexts.js" type="text/javascript"></script>
   <script src="lib/js/dflip.custom.min.js" type="text/javascript"></script>
   <script src="lib/js/handleURL.js" type="text/javascript"></script>
   <script src="lib/js/load.js" type="text/javascript"></script>
+  <script src="lib/js/translate.js" type="text/javascript"></script>
   <script src="lib/js/ui.js" type="text/javascript"></script>
   <script type="module" src="lib/js/quotes/main.js" type="text/javascript"></script>
 </body>
