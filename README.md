@@ -81,4 +81,4 @@ Si vous souhaitez participer au code de PDF2flip, n'hésitez pas à consulter le
 - Si vous diffusez une version modifiée, vous devez la partager sous la même licence, afin que les utilisateurs suivants aient les mêmes droits que vous.
 
 
-Il est fondé sur le logiciel [Paginis](https://github.com/ibra-kdbra/Paginis), mais il utilise la [version lite de la librairie dflip](https://github.com/dearhive/3d-flipbook-dflip-lite/), sous licence libre.
+Il est fondé sur le logiciel [Paginis](https://github.com/ibra-kdbra/Paginis), mais il utilise la version _lite_ de la librairie [dflip](https://github.com/dearhive/3d-flipbook-dflip-lite/), sous licence libre.
