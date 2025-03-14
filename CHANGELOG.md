@@ -1,3 +1,14 @@
+## 4.7.0 (2025-03-14)
+
+### Feat
+
+- possibilité de changer de proxy s'il ne fonctionne pas
+
+### Fix
+
+-  handleURL ne gère plus le corsProxy
+- changement message alertNoValidURL
+
 ## 4.6.0 (2025-03-14)
 
 ### Feat
