@@ -1,3 +1,13 @@
+## 4.6.0 (2025-03-14)
+
+### Feat
+
+- internationalisation de PDF2flip
+
+### Fix
+
+- chargement PDF avec menu : ne pas utiliser handleURL par défaut
+
 ## 4.5.0 (2025-03-13)
 
 ### Feat
