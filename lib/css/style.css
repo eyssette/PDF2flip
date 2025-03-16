@@ -35,3 +35,7 @@ canvas {
 .df-ui-nav.df-ui-prev .df-ui-btn:before, .df-ui-nav.df-ui-next .df-ui-btn:before {
   opacity:0.5;
 }
+
+.buttonWidgetAnnotation a, .customHtmlAnnotation, .customVideoAnnotation, a.customLinkAnnotation, a.df-autolink, a.linkAnnotation, section.linkAnnotation a {
+  background-color: #928ef917;
+}
