@@ -1,3 +1,9 @@
+## 4.8.3 (2025-03-16)
+
+### Fix
+
+- couleur de fond des liens dans PDF
+
 ## 4.8.2 (2025-03-16)
 
 ### Fix
