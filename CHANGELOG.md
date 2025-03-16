@@ -1,3 +1,9 @@
+## 4.8.2 (2025-03-16)
+
+### Fix
+
+- vérifier si boutons print et share existent
+
 ## 4.8.1 (2025-03-14)
 
 ### Fix
