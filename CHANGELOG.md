@@ -1,3 +1,11 @@
+## Unreleased
+
+## 4.8.4 (2025-04-03)
+
+### Fix
+
+- chargement d'un fichier local (pas besoin de corsProxy)
+
 ## 4.8.3 (2025-03-16)
 
 ### Fix
