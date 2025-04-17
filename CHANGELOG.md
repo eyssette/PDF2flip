@@ -1,4 +1,8 @@
-## Unreleased
+## 4.9.0 (2025-04-17)
+
+### Feat
+
+- paramètre i=0 pour cacher le bouton d'interface
 
 ## 4.8.4 (2025-04-03)
 
