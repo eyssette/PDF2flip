@@ -52,7 +52,7 @@ On peut ajouter des paramètres dans l'URL pour :
 - afficher une page spécifique : `?p=3`
 - ne voir qu'une seule page à la fois : `?v=1`
 - ne voir le livre que jusqu'à une page : `?e=3` (`e` pour `endPage`)
-- cacher le bouton en forme d'œil qui sert à afficher ou masquer l'interface : `?i=0`
+- cacher le menu, mais aussi le bouton en forme d'œil qui sert à afficher ou masquer l'interface : `?m=0&i=0`
 
 Si vous combinez des paramètres, il faut avoir un seul `?` au début, les ajouter avant le `#`, et les lier avec `&`.
 

@@ -1,5 +1,5 @@
 ---
-pages: 6
+pages: 5
 colonnes: 1
 espacementColonnes: 0px
 copies: 1
@@ -71,6 +71,7 @@ Si on veut afficher seulement le fichier PDF sans les menus, on ajoute `?m=0` av
 https://pdf2flip.forge.apps.education.fr/?m=0#URL_FICHIER_PDF
 ```
 
+<section>
 
 ## ☰&nbsp;<span>Options</span>
 
@@ -78,7 +79,7 @@ On peut ajouter des paramètres dans l'URL pour :
 - afficher une page spécifique : `?p=3`
 - ne voir qu'une seule page à la fois : `?v=1`
 - ne voir le livre que jusqu'à une page : `?e=3` (`e` pour `endPage`)
-- cacher le bouton en forme d'œil qui sert à afficher ou masquer l'interface : `?i=0`
+- cacher le menu, mais aussi le bouton en forme d'œil qui sert à afficher ou masquer l'interface : `?m=0&i=0`
 
 Si vous combinez des paramètres, il faut avoir un seul `?` au début, les ajouter avant le `#`, et les lier avec `&`.
 
@@ -87,6 +88,8 @@ Par exemple, on pourrait avoir :
 ```
 https://pdf2flip.forge.apps.education.fr/?m=0&p=3&v=1#URL_FICHIER_PDF
 ```
+
+</section>
 
 ## ⚙️&nbsp;<span>Configuration CORS côté serveur</span>
 
@@ -147,3 +150,4 @@ p img{margin-top:1em;margin-bottom:1em}
 code{font-variant:inherit;}
 ul{font-size:0.85em!important}
 </style> 
+ 
