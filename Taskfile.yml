@@ -16,7 +16,6 @@ tasks:
     vars:
       GIT_REPO_NAMES: [pdf2flip, github]
     cmds:
-      - task: lint
       - for: { var: GIT_REPO_NAMES }
         cmd:  git push {{.ITEM}} && git push {{.ITEM}} --tags
 
