@@ -8,7 +8,7 @@
 
 - prise en compte des URLs longues sur plusieurs lignes
 - paramètre "i=0" (pour cacher le bouton en forme d'œil) ne s'utilise qu'avec "m=0" (pour cacher le menu)
-- ouverture du fichier dirctement si vraiment on ne peut pas le visualiser
+- ouverture du fichier directement si vraiment on ne peut pas le visualiser
 - pas de bouton print en cas de PDF en ligne (avec hash)
 
 ### Chore
@@ -18,7 +18,6 @@
 ### Docs
 
 - explications pour paramètre i=0
-- update CHANGELOG
 
 ## 4.9.0 (2025-04-17)
 
